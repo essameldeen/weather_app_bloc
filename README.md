@@ -4,7 +4,13 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Bloc Pattern in Flutter.
+This Simple Demo for bloc pattern in StateManagment in Flutter,
+I Learn in It :
+- Event 
+- Transation
+- State (Initial State , Success State , Error State)
+- Bloc itSelf 
 
 A few resources to get you started if this is your first Flutter project:
 
