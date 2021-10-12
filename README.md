@@ -1,4 +1,4 @@
-# weather_app_bloc
+# Weather Fake App
 
 A new Flutter application.
 
